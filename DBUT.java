@@ -1,4 +1,4 @@
-package prepareStatmentInterface;
+package statement_interface;
 import java.sql.*;
 
 public class DBUT {
